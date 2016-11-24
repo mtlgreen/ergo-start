@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-blog",
-  "description": "Starter Gatsby Blog",
+  "name": "ergo-start",
+  "description": "Ergo Starter",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Paul Cuciureanu <paul@bettermtl.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
+    "url": "https://github.com/mtlgreen/ergo-start/issues"
   },
   "dependencies": {
     "cheerio": "^0.22.0",
@@ -26,7 +26,7 @@
     "underscore.string": "^3.2.3"
   },
   "devDependencies": {
-    "gh-pages": "^0.11.0"
+    "gh-pages": "0.11.0"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
